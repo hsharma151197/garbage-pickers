@@ -1,0 +1,33 @@
+body{
+	background-color: #ffddff;
+}
+
+h1{
+	font-family: cursive;
+	text-align: center;
+	color: #F64747;
+	background-color: #ffffcc; 
+	border: 5px dotted #1978D4;
+	padding: 10px;
+}
+
+img{
+	border: 5px solid black;
+	height: 300px;
+	width: 350px;
+	border-style: double;
+
+}
+
+caption{
+	font-family: cursive;
+	text-decoration: underline wavy blue;
+	font-size: 120%;
+}
+
+pre{
+	font-size: 150%;
+	color: #00AA00;
+}
+
+
